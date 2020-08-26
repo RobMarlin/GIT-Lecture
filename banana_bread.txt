@@ -1,0 +1,4 @@
+27th Aug - test for nano using GIT BASH
+
+This is a recipe for banana bread.
+
