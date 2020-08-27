@@ -6,3 +6,5 @@ This is a recipe for banana bread.
 NEW LINE
 
 Anoter line on the file  to test the commit command
+
+AND ANOTHER
