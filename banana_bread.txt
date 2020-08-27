@@ -8,3 +8,5 @@ NEW LINE
 Anoter line on the file  to test the commit command
 
 AND ANOTHER
+
+THIS LINE WAS MADE ON GIT HUB.... :)
